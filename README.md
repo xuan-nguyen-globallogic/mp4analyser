@@ -17,7 +17,7 @@ Use the latest version of Python (3.7+). Depending on the Python distribution fo
 
 If you are using a Mac, you should read this concerning TkInter: https://www.python.org/download/mac/tcltk/
 
-_For Mac: brew install python-tk  ; For Ubuntu: sudo apt-get install python3-tk_
+_Mac: brew install python-tk  ; Ubuntu: sudo apt-get install python3-tk_
 # Status #
 Version 1.1 released. Will consider pull requests.
 
